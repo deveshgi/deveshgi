@@ -1,16 +1,70 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**deveshgi/deveshgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm a MERN Stack Developer
+🚀 Passionate about building scalable web applications and real-world solutions
 
-Here are some ideas to get you started:
+🔭 I’m currently working on full-stack MERN projects
+👯 I’m open to collaborating on impactful web apps
+🤝 Looking for opportunities to grow as a developer
+🌱 Exploring advanced backend, system design & performance optimization
+💬 Ask me about React, Node.js, MongoDB, APIs
+⚡ Fun fact: I debug faster with coffee ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🌐 Connect with me:
+
+<p>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat\&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat\&logo=express)
+![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
+![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat\&logo=typescript)
+
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat\&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat\&logo=mongodb)
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat\&logo=tailwind-css)
+![Next JS](https://img.shields.io/badge/-Next.js-05122A?style=flat\&logo=next.js)
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github)
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🏆 Achievements:
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=radical)
+
+---
+
+# ✍️ Dev Quote:
+
+"First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+# 🔝 Top Projects:
+
+* 🚀 Full Stack MERN App (Add your best project here)
+* 📦 REST API with Node.js & Express
+* 🌐 Portfolio Website
+
+---
