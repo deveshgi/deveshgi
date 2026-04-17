@@ -15,7 +15,7 @@ Hi 👋, I'm a MERN Stack Developer
 # 🌐 Connect with me:
 
 <p>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>
+<a href="https://github.com/deveshgi" target="_blank">GitHub</a>
 </p>
 
 ---
@@ -38,14 +38,6 @@ Hi 👋, I'm a MERN Stack Developer
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github)
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
