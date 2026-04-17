@@ -23,9 +23,9 @@ Hi 👋, I'm a MERN Stack Developer
 # 💻 Tech Stack:
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat\&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat\&logo=express)
-![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
-![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js)
+[Express](https://img.shields.io/badge/-Express-05122A?style=flat\&logo=express)
+[React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
+[NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat\&logo=typescript)
